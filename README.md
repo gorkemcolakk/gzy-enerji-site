@@ -14,6 +14,32 @@ Projenin yayındaki haline aşağıdaki linkten ulaşabilirsiniz:
 
 ---
 
+## 📸 Ekran Görüntüleri
+
+### Masaüstü Görünümü
+
+<div align="center">
+  <img src="images/screenshots/desktop-1.png" alt="Hizmetlerimiz" width="49%">
+  <img src="images/screenshots/desktop-2.png" alt="Hakkımızda" width="49%">
+  <br>
+  <img src="images/screenshots/desktop-3.png" alt="Referanslar" width="49%">
+  <img src="images/screenshots/desktop-4.png" alt="İletişim" width="49%">
+</div>
+
+### Mobil Görünüm
+
+<div align="center">
+  <img src="images/screenshots/mobile-1.jpeg" alt="Mobil Menü" width="23%">
+  &nbsp;
+  <img src="images/screenshots/mobile-2.jpeg" alt="Mobil Hakkımızda" width="23%">
+  &nbsp;
+  <img src="images/screenshots/mobile-3.jpeg" alt="Mobil Hizmetler" width="23%">
+  &nbsp;
+  <img src="images/screenshots/mobile-4.jpeg" alt="Mobil İletişim" width="23%">
+</div>
+
+---
+
 ## 📖 Proje Hakkında
 **GZY Enerji**, modern mühendislik çözümlerini dijital dünyaya taşıyan, yüksek performanslı ve estetik odaklı bir kurumsal tanıtım sitesidir. Bu proje, sadece bir web sitesi değil; hız, SEO ve kullanıcı deneyiminin (UX) ön planda tutulduğu bir vitrin çalışmasıdır.
 
