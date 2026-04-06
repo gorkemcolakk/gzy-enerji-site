@@ -10,7 +10,7 @@
 
 ### 🌐 Canlı Önizleme
 Projenin yayındaki haline aşağıdaki linkten ulaşabilirsiniz:
-👉 **[www.gzyenerji.com](https://www.gzyenerji.com)**
+👉 **[gzyenerji.com](http://gzyenerji.com)**
 
 ---
 
@@ -53,7 +53,7 @@ Projenin yayındaki haline aşağıdaki linkten ulaşabilirsiniz:
 ## 👤 İletişim
 **Yazılım & Uygulama:** Görkem Çolak  
 **Müşteri:** Vedat Güzey  
-**Proje Adresi:** [https://www.gzyenerji.com](https://www.gzyenerji.com)  
+**Proje Adresi:** [gzyenerji.com](http://gzyenerji.com)  
 
 ---
 <div align="center">
