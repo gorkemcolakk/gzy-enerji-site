@@ -1,37 +1,61 @@
-# GZY Enerji - Profesyonel Enerji Çözümleri Web Sitesi
+# ⚡ GZY Enerji - Kurumsal Web Sitesi
 
-GZY Enerji, elektrik pano kurulumu, bakım, şarj istasyonu, kompanzasyon ve güvenlik sistemleri gibi alanlarda profesyonel mühendislik çözümleri sunan bir kurumsal web sitesidir.
-
-## 🚀 Canlı Önizleme
-Sitenin yayınlanmış haline buradan ulaşabilirsiniz: [gzyenerji.com](https://gzyenerji.com)
-
-## ✨ Öne Çıkan Özellikler
-- **Modern & Şık Tasarım:** Inter ve Space Grotesk fontlarıyla harmanlanmış, koyu mod ağırlıklı premium görünüm.
-- **Tam Duyarlı (Responsive):** Mobil, tablet ve masaüstü cihazlar için tamamen optimize edilmiş kullanıcı deneyimi.
-- **SEO Dostu:** Arama motorları için optimize edilmiş meta etiketleri, Open Graph ayarları ve temiz HTML yapısı.
-- **Zengin Animasyonlar:**
-  - Özel kurgulanmış açılış ekranı (Preloader).
-  - Intersection Observer API ile kaydırma bazlı (scroll) akış efektleri.
-  - Dinamik sayı sayacı animasyonları.
-  - Özel particle (parçacık) efekti barındıran kahraman (hero) alanı.
-- **İletişim Odaklı:** WhatsApp buton entegrasyonu ve dinamik teklif formu.
-
-## 🛠️ Kullanılan Teknolojiler
-- **HTML5:** Semantik yapı ve SEO optimizasyonu.
-- **CSS3:** Özel değişkenler (Custom Properties), Flexbox, Grid ve gelişmiş animasyonlar.
-- **Vanilla JavaScript (ES6+):** Harici kütüphane bağımlılığı olmadan (JQuery vb.) geliştirilmiş hafif ve hızlı modüler kod yapısı.
-
-## 📁 Proje Yapısı
-- `index.html`: Ana sayfa yapısı ve SEO konfigürasyonu.
-- `style.css`: Modern tasarım sistemini ve animasyonları içeren stil dosyası.
-- `script.js`: Sitenin etkileşimli özelliklerini yöneten modüler JavaScript dosyası.
-- `images/`: Optimize edilmiş proje görselleri.
-- `compress_images.py`: Görsel optimizasyonu için kullanılan yardımcı Python scripti.
-
-## 📞 İletişim
-**Ad Soyad:** Vedat Güzey  
-**Web:** [gzyenerji.com](https://gzyenerji.com)  
-**E-Posta:** vdttgzy@gmail.com  
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/UI/UX-Premium-orange?style=for-the-badge" alt="UI/UX">
+  <img src="https://img.shields.io/badge/Responsive-Mobile%20Friendly-blue?style=for-the-badge" alt="Responsive">
+</div>
 
 ---
-*Bu proje, modern web geliştirme standartlarına uygun olarak tasarlanmış ve yayına alınmıştır.*
+
+### 🌐 Canlı Önizleme
+Projenin yayındaki haline aşağıdaki linkten ulaşabilirsiniz:
+👉 **[www.gzyenerji.com](https://www.gzyenerji.com)**
+
+---
+
+## 📖 Proje Hakkında
+**GZY Enerji**, modern mühendislik çözümlerini dijital dünyaya taşıyan, yüksek performanslı ve estetik odaklı bir kurumsal tanıtım sitesidir. Bu proje, sadece bir web sitesi değil; hız, SEO ve kullanıcı deneyiminin (UX) ön planda tutulduğu bir vitrin çalışmasıdır.
+
+### ✨ Öne Çıkan Teknik Özellikler
+
+| Özellik | Açıklama |
+| :--- | :--- |
+| 🚀 **Performans** | Vanilla JS ve optimize edilmiş görseller ile ışık hızında yükleme süreleri. |
+| 📱 **Responsive** | Tüm mobil, tablet ve masaüstü cihazlar için %100 uyumlu tasarım. |
+| 🔍 **SEO** | Semantik HTML5 yapısı ve SEO meta veri optimizasyonu. |
+| 🎨 **Aesthetics** | Koyu mod teması, modern tipografi (Inter & Space Grotesk) ve cam (glassmorphism) efektleri. |
+| ⚡ **Etkileşim** | Özel particle efektleri, dinamik rakam sayaçları ve akıcı scroll animasyonları. |
+
+---
+
+## 🛠️ Teknoloji Yığını (Tech Stack)
+
+*   **Frontend:** HTML5, CSS3 (Modern Flexbox & Grid)
+*   **Javascript:** ES6+ Vanilla JavaScript (Sıfır kütüphane bağımlılığı)
+*   **Araçlar:** Python (Görsel optimizasyonu için), Git (Versiyon kontrolü)
+*   **Entegrasyonlar:** WhatsApp API, Dinamik İletişim Formu
+
+---
+
+## 📂 Proje İçeriği ve Yapısı
+
+```bash
+├── 📁 images/           # Optimize edilmiş, yüksek kaliteli görseller
+├── 📄 index.html        # Ana sayfa ve SEO konfigürasyonu
+├── 📄 style.css         # Modern tasarım sistemi ve animasyonlar
+├── 📄 script.js         # Modüler interaktif özellikler
+└── 📄 README.md         # Proje dokümantasyonu
+```
+
+---
+
+## 👤 İletişim
+**Yazılım & Uygulama:** Görkem Çolak  
+**Müşteri:** Vedat Güzey  
+**Proje Adresi:** [https://www.gzyenerji.com](https://www.gzyenerji.com)  
+
+---
+<div align="center">
+  <sub>© 2026 GZY Enerji Project. Bu proje modern web standartları ile geliştirilmiştir.</sub>
+</div>
