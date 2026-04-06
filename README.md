@@ -1,6 +1,10 @@
 # ⚡ GZY Enerji - Kurumsal Web Sitesi
 
 <div align="center">
+  <img src="images/screenshots/hero-banner.png" alt="GZY Enerji Hero" width="100%">
+</div>
+
+<div align="center">
   <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/UI/UX-Premium-orange?style=for-the-badge" alt="UI/UX">
   <img src="https://img.shields.io/badge/Responsive-Mobile%20Friendly-blue?style=for-the-badge" alt="Responsive">
