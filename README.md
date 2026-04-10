@@ -81,7 +81,8 @@ Projenin yayındaki haline aşağıdaki linkten ulaşabilirsiniz:
 ---
 
 ## 👤 İletişim
-**Yazılım & Uygulama:** Görkem Çolak  
+**Yazılım & Uygulama:** Eren Görkem Çolak - [GitHub](https://github.com/gorkemcolakk) - [LinkedIn](https://www.linkedin.com/in/eren-g%C3%B6rkem-%C3%A7olak-06104b35a/) 
+
 **Müşteri:** Vedat Güzey  
 **Proje Adresi:** [gzyenerji.com](http://gzyenerji.com)  
 
